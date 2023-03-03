@@ -332,3 +332,64 @@ span {
     color: #E2E2EE;
     font-size: 1.5rem;
 }
+.profession{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 10rem;
+    height: 50vh;
+    width: 100%;
+}
+.profession p {
+    display: block;
+    width: 90%;
+    font-size: 1.2em;
+    color: #FEFFFF;
+}
+.profession a{
+    color: #FBB813;
+    font-size:1.4rem ;
+}
+
+h4{
+    font-size: 1.4rem;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+#wordpress{
+    margin: 2rem;
+    margin-top: 1rem;
+    background-color: #403F51;
+    padding:1rem 4rem;
+}
+#wordpress i{
+    margin-bottom: 2rem;
+}
+#wordpress h4{
+    margin-bottom: 2rem;
+}
+#freelancer{
+    margin: 2rem;
+    background-color: #403F51;
+    padding: 1rem 4rem;
+    margin-top: 1rem;
+}
+#freelancer i{
+    margin-bottom: 2rem;
+}
+#freelancer h4{
+    margin-bottom: 2rem;
+}
+
+#graphic{
+    margin: 2rem;
+    background-color: #403F51;
+    padding: 1rem 4rem;
+    margin-top: 1rem;
+}
+#graphic i{
+    margin-bottom: 2rem;
+}
+#graphic h4{
+    margin-bottom: 2rem;
+}
